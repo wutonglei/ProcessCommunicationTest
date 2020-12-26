@@ -1,0 +1,2 @@
+include ':app', ':clienttest'
+rootProject.name='ProcessCommunicationTest'
